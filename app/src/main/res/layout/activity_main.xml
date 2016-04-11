@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_go"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="左进" />
+
+    <Button
+        android:id="@+id/btn_go2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="右进" />
+
+    <Button
+        android:id="@+id/btn_go3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="下进" />
+    <Button
+        android:id="@+id/btn_go4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="上进"/>
+    <Button
+        android:id="@+id/btn_go5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SCALE IN"/>
+    <Button
+        android:id="@+id/btn_go6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FADE IN"/>
+
+</LinearLayout>
