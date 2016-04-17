@@ -18,8 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SecondActivity" />
-        <activity android:name=".ThreeActivity"/>
+        <activity android:name=".LeftActivity" />
+        <activity android:name=".RightActivity"/>
         <activity android:name=".BottomActivity"/>
         <activity android:name=".TopActivity"/>
         <activity android:name=".ScaleActivity"/>
